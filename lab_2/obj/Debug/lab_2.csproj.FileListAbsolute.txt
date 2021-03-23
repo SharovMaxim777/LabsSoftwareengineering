@@ -1,0 +1,17 @@
+D:\belyakov_second_semester-master\lab_2\bin\Debug\lab_2.exe.config
+D:\belyakov_second_semester-master\lab_2\bin\Debug\lab_2.exe
+D:\belyakov_second_semester-master\lab_2\bin\Debug\lab_2.pdb
+D:\belyakov_second_semester-master\lab_2\bin\Debug\lab_1_dll.dll
+D:\belyakov_second_semester-master\lab_2\bin\Debug\lab_1_dll.pdb
+D:\belyakov_second_semester-master\lab_2\obj\Debug\lab_2.csprojAssemblyReference.cache
+D:\belyakov_second_semester-master\lab_2\obj\Debug\lab_2.csproj.CoreCompileInputs.cache
+D:\belyakov_second_semester-master\lab_2\obj\Debug\lab_2.csproj.CopyComplete
+D:\belyakov_second_semester-master\lab_2\obj\Debug\lab_2.exe
+D:\belyakov_second_semester-master\lab_2\obj\Debug\lab_2.pdb
+C:\Users\maxsh\Desktop\lab_2\obj\Debug\lab_2.csprojAssemblyReference.cache
+C:\Users\maxsh\Desktop\lab_2\obj\Debug\lab_2.csproj.CoreCompileInputs.cache
+C:\Users\maxsh\Desktop\lab_2\obj\Debug\lab_2.exe
+C:\Users\maxsh\Desktop\lab_2\obj\Debug\lab_2.pdb
+C:\Users\maxsh\Desktop\lab_2\bin\Debug\lab_2.exe.config
+C:\Users\maxsh\Desktop\lab_2\bin\Debug\lab_2.exe
+C:\Users\maxsh\Desktop\lab_2\bin\Debug\lab_2.pdb
